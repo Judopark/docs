@@ -1,3 +1,4 @@
+[responsible-use-of-github-copilot-chat-in-your-ide.md](https://github.com/user-attachments/files/18107278/responsible-use-of-github-copilot-chat-in-your-ide.md)
 ---
 title: Responsible use of GitHub Copilot Chat in your IDE
 shortTitle: Chat in your IDE
